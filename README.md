@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Full Stack Technologies .NET and Angular
 - 🌱 I’m currently learning Azure Solutions Architecture
 - 👯 I’m looking to collaborate on interesting repositories
@@ -9,3 +7,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: alonsodelm@gmail.com
 - ⚡ Fun fact: Some software engineers wear glasses. Some wear pants
+- 📖 Blog: https://www.josecode.com
